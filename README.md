@@ -9,7 +9,7 @@
 
 
 <ol>
-<li>Install geckodriver.exe from <a href="https://github.com/mozilla/geckodriver" title="geckodriver.exe">here and then place it in the location with your .py file</a></li>
+<li>Install geckodriver.exe from <a href="https://github.com/mozilla/geckodriver" title="geckodriverexe">here</a> and then place it in the location with your .py file</li>
 <li>pip install pandas</li>
 <li>Following the tutorial, replace line of codes appropiate for the FireFox web browser (See my code for this)</li>
 
