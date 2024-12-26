@@ -1,4 +1,3 @@
-<h1>Klaboon's assorted coding projects and experiments.</h1>
 <h2>Where I got my ideas from</h2>
 <ul>
 <li><a href="https://github.com/practical-tutorials/project-based-learning" title="">Project Based Learning by practical-tutorials</a></li>
